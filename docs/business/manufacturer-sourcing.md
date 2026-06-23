@@ -54,28 +54,70 @@ Sources:
 | Communication responsiveness | Med | Hands-off ops depend on it |
 | Photo requirements (count/angles/res) | Med | Shapes our uploader UX |
 
-## Outreach email template
+## Dual-track outreach (decision: get quotes for BOTH)
 
-> **Subject:** Custom photo-based dolls — dropship partner inquiry (MOQ 1)
+We're quoting **true porcelain** and **porcelain-look (vinyl/silicone)** in
+parallel, then deciding on real cost/quality/lead-time data. Send the matching
+email to each candidate type and log replies in the comparison matrix below.
+
+### Email A — True porcelain makers (Etsy studios, porcelain-capable factories)
+
+> **Subject:** Custom photo-based porcelain dolls — dropship partner (MOQ 1)
 >
 > Hi [Name/Team],
 >
 > I run an online store selling **custom look-alike dolls made from a
-> customer's photos**. I'm looking for a production partner who can:
+> customer's photos**, and I'm sourcing a **porcelain** production partner who
+> can:
 >
-> 1. Create a custom doll from **2–4 customer photos** (please share your photo
->    requirements and typical likeness accuracy).
-> 2. Produce and **ship direct to my customers (dropship), MOQ 1**, with
->    **no maker branding** in the package (blind/white-label).
-> 3. Material: [true porcelain / porcelain-look vinyl or silicone] — let me know
->    what you offer and the tradeoffs.
+> 1. Create a custom **porcelain** doll from **2–4 customer photos** — please
+>    share your photo requirements and typical likeness accuracy.
+> 2. Produce and **ship direct to my customers (dropship)**; I need a low
+>    minimum (ideally **MOQ 1**) with **no maker branding** in the package.
 >
-> Could you share: per-unit cost at low volume, shipping cost/time to the US,
-> total lead time, your breakage/replacement policy, how you receive orders
+> Could you share: per-unit cost at low volume, **minimum order quantity**,
+> shipping cost/time to the US, total lead time, your **breakage/replacement**
+> policy (porcelain is fragile), how you receive orders (email/portal/API),
+> and whether I can place a **paid sample** order first?
+>
+> Thanks,
+> [Name] — [brand], [website], [email]
+
+### Email B — Porcelain-look makers (vinyl/silicone, e.g. Everyest)
+
+> **Subject:** Custom photo→doll, porcelain-look finish — dropship partner (MOQ 1)
+>
+> Hi [Name/Team],
+>
+> I run an online store selling **custom look-alike dolls made from a
+> customer's photos**. I'm looking for a partner who can:
+>
+> 1. Sculpt a custom doll from **2–4 customer photos** (please share photo
+>    requirements + typical likeness accuracy — I've seen ~95% cited).
+> 2. Offer a **porcelain-style / matte finish** in **vinyl or silicone**.
+> 3. **Dropship direct to my customers at MOQ 1**, **white-label** (no maker
+>    branding in the box).
+>
+> Could you share: per-unit cost at low volume, **MOQ**, US shipping cost/time,
+> total lead time, damage/replacement policy, how you receive orders
 > (email/portal/API), and whether I can order a **paid sample** first?
 >
 > Thanks,
 > [Name] — [brand], [website], [email]
+
+## Comparison matrix (fill from replies, then decide)
+
+| | Porcelain candidate(s) | Porcelain-look candidate(s) |
+|---|---|---|
+| Likeness accuracy (from sample) | | |
+| Unit cost @ MOQ 1 | | |
+| Actual MOQ | | |
+| US shipping cost / time | | |
+| Total lead time | | |
+| Breakage/replacement policy | | |
+| Order intake (email/portal/API) | | |
+| Implied retail @ 2.5× ([pricing](pricing-worksheet.md)) | | |
+| **Verdict** | | |
 
 ## Sample-order checklist (before launch)
 

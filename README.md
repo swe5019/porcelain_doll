@@ -26,7 +26,8 @@ Greenfield. We are at **M1 (Foundation)**. See the full plan and milestones in
 docs/
   PLAN.md                         # master plan + milestones
   business/
-    manufacturer-sourcing.md      # shortlist, scorecard, outreach email, sample checklist
+    manufacturer-sourcing.md      # shortlist, scorecard, dual-track outreach, comparison matrix
+    branding.md                   # name & domain shortlist
     pricing-worksheet.md          # unit economics / margin model
     policies.md                   # photo-rights/likeness ToS, breakage & refund policy
   build/
